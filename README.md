@@ -63,7 +63,7 @@ through the USB after FPGA configuration.  This is annoying - get yourself an FT
 Files:
 1.  readme.md   -- this file
 
-2:  vVGAmod.vhd -- driver for 5" TFT
+2.  vVGAmod.vhd -- driver for 5" TFT
     This has been tested on the Tang Primer.  It should  also work with the
     Tang Nano, but has not been tested yet.  It provides a bit clearer looking
     screen then the demo for the Tang Nano, and verifies the edges of the
@@ -73,5 +73,5 @@ Files:
     constraints and a top level with the 24-to33MHz pll hooking everything up,
     but that is virtually identical to what Tang provides at sites given above.
 
-Contact: krbolson <at> gmail <dot> com
+Contact: krbolson \<at\> gmail \<dot\> com
 
